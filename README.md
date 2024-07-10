@@ -24,14 +24,12 @@ WorldWide is a React-based application that helps you keep track of the location
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/Enej23/WorldWide.git
-   cd WorldWide
    
-2. **install dependencies**:
+2. **Locate to the main directory and install dependencies**:
    ```sh
-   git clone https://github.com/Enej23/WorldWide.git
-   cd WorldWide
+   npm install
    
-3. **Run the backend server**:
+3. **Run the backend server in a new terminal**:
    ```sh
    npm run server
    
