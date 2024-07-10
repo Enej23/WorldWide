@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-07-10T15:07:41.541Z",
+      "notes": "lkj",
+      "position": {
+        "lat": "52.51326658757504",
+        "lng": "13.38413101326283"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-10T15:10:33.454Z",
+      "notes": "člčlč",
+      "position": {
+        "lat": "41.88442390395414",
+        "lng": "-1.0061931875919397"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Torre de Juan Abad",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-10T15:14:48.446Z",
+      "notes": "ghfhfgh",
+      "position": {
+        "lat": "38.59713482003097",
+        "lng": "-3.0955348955510646"
+      },
+      "id": 73930389
+    },
+    {
+      "cityName": "Poggio Renatico",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-07-10T16:32:20.158Z",
+      "notes": "as",
+      "position": {
+        "lat": "44.78886898898072",
+        "lng": "11.517544606621072"
+      },
+      "id": 73930390
+    }
+  ]
+}
