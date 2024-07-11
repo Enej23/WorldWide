@@ -37,40 +37,16 @@
       "id": 73930386
     },
     {
-      "cityName": "Zaragoza",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-10T15:10:33.454Z",
-      "notes": "člčlč",
+      "cityName": "Deskle",
+      "country": "Slovenia",
+      "emoji": "🇸🇮",
+      "date": "2024-07-10T16:59:26.003Z",
+      "notes": "Best city by far",
       "position": {
-        "lat": "41.88442390395414",
-        "lng": "-1.0061931875919397"
+        "lat": "46.05310105597479",
+        "lng": "13.613629818204403"
       },
       "id": 73930387
-    },
-    {
-      "cityName": "Torre de Juan Abad",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-10T15:14:48.446Z",
-      "notes": "ghfhfgh",
-      "position": {
-        "lat": "38.59713482003097",
-        "lng": "-3.0955348955510646"
-      },
-      "id": 73930389
-    },
-    {
-      "cityName": "Poggio Renatico",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2024-07-10T16:32:20.158Z",
-      "notes": "as",
-      "position": {
-        "lat": "44.78886898898072",
-        "lng": "11.517544606621072"
-      },
-      "id": 73930390
     }
   ]
 }
